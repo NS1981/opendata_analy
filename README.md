@@ -12,7 +12,7 @@
 最終的なレポート資料はこちら↓
 
 https://drive.google.com/file/d/1HQKeW5Ng7E08MeFPu1sak5aIyZK_FeHu/view?usp=sharing 
-
+（このGit Hubリポジトリでは、14～25シート、33～36シートのコードは省略しています。）
 
 【利用したデータ】
 
